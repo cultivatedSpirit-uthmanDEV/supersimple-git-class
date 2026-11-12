@@ -1,1 +1,1 @@
-feature one
+conflict 1 from feature 
